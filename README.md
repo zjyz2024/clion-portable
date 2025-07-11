@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/zjyz2024/clion-portable/" target="_blank"><img width="100" src="https://github.com/zjyz2024/clion-portable/blob/main/res/papp.png"></a></p>
 
-[![current release](https://img.shields.io/github/release/zjyz2024/clion-portable.svg)](https://github.com/zjyz2024/clion-portable/release/)
+[![current release](https://img.shields.io/github/release/zjyz2024/clion-portable.svg)](https://github.com/zjyz2024/clion-portable/releases/)
 ![platform](https://img.shields.io/badge/platforms-Windows-green)
 
 ## Notice of Non-Affiliation and Disclaimer
